@@ -234,6 +234,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+### Deploying on Vercel
+
+ClimatePluse is a Streamlit application, not a frontend bundle or a WSGI/ASGI Python API. Vercel's Python runtime expects a request-handler export, so it cannot host `app.py` as the Streamlit server. The repository's `vercel.json` explicitly builds only `public/index.html` as a static page; that page forwards visitors to the Streamlit deployment linked above and keeps Vercel from detecting `app.py` as a function.
+
+Connect the repository with its root directory set to the repository root, then deploy with `vercel --prod`. No Vercel build command, package installation, or environment variables are required. The actual application continues to run on Streamlit; locally, start it with `streamlit run app.py`.
+
 <details>
 <summary><b>Run the tests</b></summary>
 
