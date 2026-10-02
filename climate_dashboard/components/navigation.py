@@ -14,7 +14,7 @@ def nav_bar():
             'background:linear-gradient(90deg,#4ade80,#a3e635,#2dd4bf,#d1fae5);'
             'background-size:220% auto;-webkit-background-clip:text;'
             '-webkit-text-fill-color:transparent;animation:shimmer 5s linear infinite;">'
-            '🌿 ClimatePulse</div>',
+            '🌿 ClimatePluse</div>',
             unsafe_allow_html=True,
         )
     for col, (label, page) in zip(

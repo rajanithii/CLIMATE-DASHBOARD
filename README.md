@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/readme/hero.svg" alt="ClimatePulse — see the climate data differently. Warming stripes built from the bundled temperature data, with an animated trend line." width="100%">
+<img src="docs/readme/hero.svg" alt="ClimatePluse — see the climate data differently. Warming stripes built from the bundled temperature data, with an animated trend line." width="100%">
 
 <br>
 
@@ -18,7 +18,7 @@
 
 <br>
 
-<img src="docs/readme/pulse.svg" alt="The ClimatePulse signature: four traces — temperature, CO₂, sea level and forest loss — drawn from the bundled datasets and joined by a heartbeat line." width="100%">
+<img src="docs/readme/pulse.svg" alt="The ClimatePluse signature: four traces — temperature, CO₂, sea level and forest loss — drawn from the bundled datasets and joined by a heartbeat line." width="100%">
 
 </div>
 
@@ -36,7 +36,7 @@
 </div>
 
 <p align="center">
-ClimatePulse takes the climate datasets bundled with the project and turns them<br>
+ClimatePluse takes the climate datasets bundled with the project and turns them<br>
 into interactive maps, charts and animations — built with Python, Pandas, Plotly and Streamlit.
 </p>
 
@@ -174,7 +174,7 @@ flowchart TD
 </tr>
 </table>
 
-ClimatePulse visualizes **only these bundled files**: there is no live feed and no data input in the interface. The repository doesn't document where the datasets originally came from, so no source is claimed here. Rankings and totals (e.g. "top emitter") describe the countries present in these files, not the whole world.
+ClimatePluse visualizes **only these bundled files**: there is no live feed and no data input in the interface. The repository doesn't document where the datasets originally came from, so no source is claimed here. Rankings and totals (e.g. "top emitter") describe the countries present in these files, not the whole world.
 
 <details>
 <summary><b>Project structure</b></summary>
@@ -182,7 +182,7 @@ ClimatePulse visualizes **only these bundled files**: there is no live feed and 
 <br>
 
 ```text
-ClimatePulse
+ClimatePluse
 │
 ├── app.py                        entry point: page config, data loading, routing
 │
@@ -248,7 +248,7 @@ pytest
 
 <div align="center">
 
-<a href="https://climate-dashboard-story.streamlit.app/"><img src="docs/readme/final-cta.svg" alt="Explore ClimatePulse live" width="100%"></a>
+<a href="https://climate-dashboard-story.streamlit.app/"><img src="docs/readme/final-cta.svg" alt="Explore ClimatePluse live" width="100%"></a>
 
 <br>
 

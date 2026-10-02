@@ -7,7 +7,7 @@
 <text x="640" y="122" text-anchor="middle" font-size="42" font-weight="800" letter-spacing="8" fill="#D1FAE5">SEE IT FOR YOURSELF</text>
 <rect x="470" y="146" width="340" height="56" rx="28" fill="none" stroke="#4ADE80" stroke-width="2"><animate attributeName="stroke-opacity" values="0.15;0.8;0.15" dur="2.8s" repeatCount="indefinite"/><animate attributeName="stroke-width" values="1;5;1" dur="2.8s" repeatCount="indefinite"/></rect>
 <rect x="474" y="150" width="332" height="48" rx="24" fill="url(#bg)"/>
-<text x="640" y="181" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="800" letter-spacing="3" fill="#07110C">EXPLORE CLIMATEPULSE  →</text>
+<text x="640" y="181" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="800" letter-spacing="3" fill="#07110C">EXPLORE CLIMATEPLUSE  →</text>
 <text x="640" y="228" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9CA3AF">climate-dashboard-story.streamlit.app</text>
 
 </svg>

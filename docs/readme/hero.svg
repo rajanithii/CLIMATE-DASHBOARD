@@ -19,11 +19,11 @@
   <animate attributeName="opacity" values="1;1;0" keyTimes="0.0000;0.9300;1.0000" dur="10.0s" repeatCount="indefinite" />
 </g>
 
-<text x="640" y="96" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="6" fill="#4ADE80" fill-opacity="0.85">OPEN-SOURCE CLIMATE DATA DASHBOARD</text>
+<text x="640" y="96" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="6" fill="#4ADE80" fill-opacity="0.85">OPEN-SOURCE CLIMATE DATA STORY</text>
 <g>
-  <text x="640" y="190" text-anchor="middle" font-size="78" font-weight="800" letter-spacing="16" fill="#4ADE80" fill-opacity="0.5" filter="url(#glow)">CLIMATEPULSE
+  <text x="640" y="190" text-anchor="middle" font-size="78" font-weight="800" letter-spacing="16" fill="#4ADE80" fill-opacity="0.5" filter="url(#glow)">CLIMATEPLUSE
     <animate attributeName="fill-opacity" values="0.25;0.55;0.25" dur="6s" repeatCount="indefinite"/></text>
-  <text x="640" y="190" text-anchor="middle" font-size="78" font-weight="800" letter-spacing="16"><tspan fill="#D1FAE5">CLIMATE</tspan><tspan fill="#4ADE80">PULSE</tspan></text>
+  <text x="640" y="190" text-anchor="middle" font-size="78" font-weight="800" letter-spacing="16"><tspan fill="#D1FAE5">CLIMATE</tspan><tspan fill="#4ADE80">PLUSE</tspan></text>
 </g>
 <text x="640" y="240" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" letter-spacing="7" fill="#D1FAE5" fill-opacity="0.8">SEE THE CLIMATE DATA DIFFERENTLY.</text>
 <rect x="540" y="265" width="200" height="1.5" fill="url(#hl)"/>

@@ -1,4 +1,4 @@
-"""ClimatePulse Streamlit application entry point."""
+"""ClimatePluse Streamlit application entry point."""
 
 import streamlit as st
 
@@ -14,7 +14,7 @@ from climate_dashboard.views import (
 )
 
 st.set_page_config(
-    page_title="ClimatePulse",
+    page_title="ClimatePluse",
     page_icon="🌿",
     layout="wide",
     initial_sidebar_state="collapsed",
