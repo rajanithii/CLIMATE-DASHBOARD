@@ -1,0 +1,769 @@
+country,year,co2
+United States,1960,413.29
+United States,1961,418.69
+United States,1962,362.45
+United States,1963,377.03
+United States,1964,407.23
+United States,1965,399.94
+United States,1966,407.53
+United States,1967,392.4
+United States,1968,428.65
+United States,1969,428.21
+United States,1970,415.57
+United States,1971,438.39
+United States,1972,426.8
+United States,1973,401.86
+United States,1974,428.02
+United States,1975,403.06
+United States,1976,441.4
+United States,1977,424.43
+United States,1978,423.33
+United States,1979,415.01
+United States,1980,454.67
+United States,1981,428.73
+United States,1982,424.85
+United States,1983,427.97
+United States,1984,447.26
+United States,1985,445.52
+United States,1986,448.06
+United States,1987,450.02
+United States,1988,485.83
+United States,1989,436.47
+United States,1990,435.95
+United States,1991,431.52
+United States,1992,461.71
+United States,1993,473.57
+United States,1994,450.31
+United States,1995,437.38
+United States,1996,439.29
+United States,1997,470.39
+United States,1998,473.84
+United States,1999,471.43
+United States,2000,448.86
+United States,2001,468.41
+United States,2002,467.7
+United States,2003,471.33
+United States,2004,485.99
+United States,2005,474.63
+United States,2006,485.33
+United States,2007,474.7
+United States,2008,480.73
+United States,2009,489.17
+United States,2010,449.0
+United States,2011,473.34
+United States,2012,471.93
+United States,2013,470.15
+United States,2014,479.03
+United States,2015,516.02
+United States,2016,470.41
+United States,2017,508.69
+United States,2018,457.26
+United States,2019,485.82
+United States,2020,497.37
+United States,2021,507.43
+United States,2022,511.53
+United States,2023,514.77
+China,1960,81.03
+China,1961,61.63
+China,1962,41.54
+China,1963,45.98
+China,1964,51.85
+China,1965,81.77
+China,1966,76.27
+China,1967,88.82
+China,1968,68.06
+China,1969,81.36
+China,1970,92.3
+China,1971,75.19
+China,1972,92.11
+China,1973,71.32
+China,1974,78.89
+China,1975,80.11
+China,1976,65.42
+China,1977,100.67
+China,1978,83.13
+China,1979,94.36
+China,1980,105.32
+China,1981,106.23
+China,1982,112.2
+China,1983,98.51
+China,1984,93.61
+China,1985,102.07
+China,1986,71.51
+China,1987,77.9
+China,1988,81.98
+China,1989,90.09
+China,1990,119.62
+China,1991,95.1
+China,1992,107.24
+China,1993,142.38
+China,1994,110.86
+China,1995,134.33
+China,1996,102.5
+China,1997,118.66
+China,1998,105.36
+China,1999,119.17
+China,2000,144.35
+China,2001,94.59
+China,2002,139.41
+China,2003,137.07
+China,2004,122.02
+China,2005,106.58
+China,2006,138.53
+China,2007,128.09
+China,2008,144.93
+China,2009,142.3
+China,2010,175.49
+China,2011,140.26
+China,2012,126.17
+China,2013,151.82
+China,2014,154.22
+China,2015,178.6
+China,2016,169.71
+China,2017,161.74
+China,2018,185.46
+China,2019,134.01
+China,2020,146.58
+China,2021,142.44
+China,2022,154.76
+China,2023,136.62
+India,1960,286.5
+India,1961,296.16
+India,1962,323.3
+India,1963,334.35
+India,1964,358.07
+India,1965,376.97
+India,1966,327.54
+India,1967,300.02
+India,1968,277.73
+India,1969,326.28
+India,1970,305.22
+India,1971,313.73
+India,1972,310.35
+India,1973,320.34
+India,1974,345.03
+India,1975,327.41
+India,1976,321.65
+India,1977,304.67
+India,1978,292.44
+India,1979,316.77
+India,1980,325.98
+India,1981,362.97
+India,1982,330.77
+India,1983,348.38
+India,1984,319.29
+India,1985,306.14
+India,1986,311.09
+India,1987,316.45
+India,1988,374.08
+India,1989,315.64
+India,1990,349.39
+India,1991,315.12
+India,1992,352.37
+India,1993,341.99
+India,1994,331.72
+India,1995,334.59
+India,1996,322.87
+India,1997,345.44
+India,1998,327.98
+India,1999,313.12
+India,2000,312.63
+India,2001,342.2
+India,2002,370.89
+India,2003,343.06
+India,2004,338.05
+India,2005,346.69
+India,2006,367.65
+India,2007,346.48
+India,2008,334.43
+India,2009,365.33
+India,2010,352.34
+India,2011,375.03
+India,2012,348.54
+India,2013,320.94
+India,2014,318.63
+India,2015,379.57
+India,2016,381.58
+India,2017,344.07
+India,2018,340.55
+India,2019,378.0
+India,2020,327.19
+India,2021,332.0
+India,2022,363.31
+India,2023,343.11
+Germany,1960,282.09
+Germany,1961,304.34
+Germany,1962,278.86
+Germany,1963,290.79
+Germany,1964,237.77
+Germany,1965,278.66
+Germany,1966,263.63
+Germany,1967,256.98
+Germany,1968,264.65
+Germany,1969,276.39
+Germany,1970,302.25
+Germany,1971,258.26
+Germany,1972,286.26
+Germany,1973,276.83
+Germany,1974,280.82
+Germany,1975,308.28
+Germany,1976,299.85
+Germany,1977,316.7
+Germany,1978,287.72
+Germany,1979,277.75
+Germany,1980,288.05
+Germany,1981,298.24
+Germany,1982,297.78
+Germany,1983,273.42
+Germany,1984,297.78
+Germany,1985,301.39
+Germany,1986,348.04
+Germany,1987,336.08
+Germany,1988,282.34
+Germany,1989,294.52
+Germany,1990,271.86
+Germany,1991,290.17
+Germany,1992,309.16
+Germany,1993,327.82
+Germany,1994,289.98
+Germany,1995,292.34
+Germany,1996,263.34
+Germany,1997,303.89
+Germany,1998,286.76
+Germany,1999,298.27
+Germany,2000,292.19
+Germany,2001,308.7
+Germany,2002,276.29
+Germany,2003,282.96
+Germany,2004,355.75
+Germany,2005,288.27
+Germany,2006,292.95
+Germany,2007,352.48
+Germany,2008,374.7
+Germany,2009,294.03
+Germany,2010,310.96
+Germany,2011,326.01
+Germany,2012,354.61
+Germany,2013,301.16
+Germany,2014,316.85
+Germany,2015,338.17
+Germany,2016,332.17
+Germany,2017,316.82
+Germany,2018,322.52
+Germany,2019,298.56
+Germany,2020,322.15
+Germany,2021,322.45
+Germany,2022,333.28
+Germany,2023,318.39
+United Kingdom,1960,319.12
+United Kingdom,1961,325.25
+United Kingdom,1962,321.48
+United Kingdom,1963,322.62
+United Kingdom,1964,310.39
+United Kingdom,1965,333.35
+United Kingdom,1966,327.28
+United Kingdom,1967,373.29
+United Kingdom,1968,365.1
+United Kingdom,1969,343.55
+United Kingdom,1970,322.77
+United Kingdom,1971,317.99
+United Kingdom,1972,366.26
+United Kingdom,1973,349.89
+United Kingdom,1974,356.44
+United Kingdom,1975,314.15
+United Kingdom,1976,369.79
+United Kingdom,1977,362.53
+United Kingdom,1978,333.44
+United Kingdom,1979,348.42
+United Kingdom,1980,365.32
+United Kingdom,1981,363.3
+United Kingdom,1982,358.61
+United Kingdom,1983,364.59
+United Kingdom,1984,363.82
+United Kingdom,1985,374.11
+United Kingdom,1986,402.69
+United Kingdom,1987,324.13
+United Kingdom,1988,372.93
+United Kingdom,1989,383.4
+United Kingdom,1990,387.99
+United Kingdom,1991,376.83
+United Kingdom,1992,351.34
+United Kingdom,1993,395.23
+United Kingdom,1994,425.42
+United Kingdom,1995,362.4
+United Kingdom,1996,412.56
+United Kingdom,1997,390.91
+United Kingdom,1998,398.46
+United Kingdom,1999,380.83
+United Kingdom,2000,397.4
+United Kingdom,2001,432.29
+United Kingdom,2002,420.14
+United Kingdom,2003,445.34
+United Kingdom,2004,436.44
+United Kingdom,2005,423.88
+United Kingdom,2006,452.18
+United Kingdom,2007,428.28
+United Kingdom,2008,438.26
+United Kingdom,2009,417.97
+United Kingdom,2010,427.43
+United Kingdom,2011,414.36
+United Kingdom,2012,450.3
+United Kingdom,2013,409.14
+United Kingdom,2014,450.56
+United Kingdom,2015,433.3
+United Kingdom,2016,462.74
+United Kingdom,2017,456.53
+United Kingdom,2018,480.13
+United Kingdom,2019,460.54
+United Kingdom,2020,416.68
+United Kingdom,2021,448.98
+United Kingdom,2022,429.09
+United Kingdom,2023,444.36
+France,1960,303.18
+France,1961,299.34
+France,1962,322.73
+France,1963,300.2
+France,1964,313.56
+France,1965,335.68
+France,1966,355.0
+France,1967,346.53
+France,1968,290.98
+France,1969,345.35
+France,1970,343.16
+France,1971,352.46
+France,1972,378.96
+France,1973,307.83
+France,1974,339.73
+France,1975,365.82
+France,1976,324.83
+France,1977,388.44
+France,1978,368.74
+France,1979,380.76
+France,1980,354.87
+France,1981,385.02
+France,1982,392.57
+France,1983,378.32
+France,1984,380.8
+France,1985,383.98
+France,1986,363.76
+France,1987,380.53
+France,1988,382.89
+France,1989,396.07
+France,1990,410.85
+France,1991,372.14
+France,1992,393.27
+France,1993,427.85
+France,1994,385.81
+France,1995,386.69
+France,1996,409.64
+France,1997,424.94
+France,1998,410.73
+France,1999,439.54
+France,2000,432.56
+France,2001,434.71
+France,2002,431.41
+France,2003,469.34
+France,2004,421.14
+France,2005,387.63
+France,2006,462.24
+France,2007,423.46
+France,2008,437.23
+France,2009,463.72
+France,2010,407.94
+France,2011,417.41
+France,2012,412.87
+France,2013,431.47
+France,2014,458.6
+France,2015,462.75
+France,2016,460.25
+France,2017,428.93
+France,2018,413.44
+France,2019,463.18
+France,2020,455.11
+France,2021,476.19
+France,2022,483.5
+France,2023,474.69
+Brazil,1960,101.3
+Brazil,1961,79.35
+Brazil,1962,92.59
+Brazil,1963,102.86
+Brazil,1964,118.08
+Brazil,1965,96.54
+Brazil,1966,117.58
+Brazil,1967,104.58
+Brazil,1968,110.29
+Brazil,1969,131.97
+Brazil,1970,78.26
+Brazil,1971,94.94
+Brazil,1972,93.97
+Brazil,1973,79.68
+Brazil,1974,115.53
+Brazil,1975,146.83
+Brazil,1976,128.88
+Brazil,1977,141.28
+Brazil,1978,161.85
+Brazil,1979,169.36
+Brazil,1980,144.17
+Brazil,1981,175.36
+Brazil,1982,152.88
+Brazil,1983,137.03
+Brazil,1984,144.63
+Brazil,1985,129.65
+Brazil,1986,144.24
+Brazil,1987,157.59
+Brazil,1988,183.56
+Brazil,1989,204.65
+Brazil,1990,145.33
+Brazil,1991,183.57
+Brazil,1992,157.65
+Brazil,1993,190.7
+Brazil,1994,181.32
+Brazil,1995,150.07
+Brazil,1996,208.0
+Brazil,1997,180.07
+Brazil,1998,184.24
+Brazil,1999,176.26
+Brazil,2000,187.32
+Brazil,2001,211.7
+Brazil,2002,202.1
+Brazil,2003,215.2
+Brazil,2004,218.61
+Brazil,2005,240.53
+Brazil,2006,210.0
+Brazil,2007,190.06
+Brazil,2008,243.69
+Brazil,2009,218.46
+Brazil,2010,250.12
+Brazil,2011,238.24
+Brazil,2012,230.69
+Brazil,2013,243.03
+Brazil,2014,277.82
+Brazil,2015,283.08
+Brazil,2016,245.67
+Brazil,2017,250.23
+Brazil,2018,271.29
+Brazil,2019,235.6
+Brazil,2020,261.91
+Brazil,2021,257.48
+Brazil,2022,267.02
+Brazil,2023,246.81
+Canada,1960,125.59
+Canada,1961,140.73
+Canada,1962,146.01
+Canada,1963,192.59
+Canada,1964,177.94
+Canada,1965,138.54
+Canada,1966,166.71
+Canada,1967,153.59
+Canada,1968,158.01
+Canada,1969,169.38
+Canada,1970,180.02
+Canada,1971,162.83
+Canada,1972,192.86
+Canada,1973,150.71
+Canada,1974,175.65
+Canada,1975,229.45
+Canada,1976,183.93
+Canada,1977,210.1
+Canada,1978,185.24
+Canada,1979,196.99
+Canada,1980,186.21
+Canada,1981,185.91
+Canada,1982,175.7
+Canada,1983,201.87
+Canada,1984,178.2
+Canada,1985,210.51
+Canada,1986,220.88
+Canada,1987,208.47
+Canada,1988,197.39
+Canada,1989,214.16
+Canada,1990,200.88
+Canada,1991,227.74
+Canada,1992,174.37
+Canada,1993,206.26
+Canada,1994,175.12
+Canada,1995,187.01
+Canada,1996,246.16
+Canada,1997,238.75
+Canada,1998,208.43
+Canada,1999,194.74
+Canada,2000,167.47
+Canada,2001,217.86
+Canada,2002,279.11
+Canada,2003,241.37
+Canada,2004,223.46
+Canada,2005,245.92
+Canada,2006,207.37
+Canada,2007,234.61
+Canada,2008,244.52
+Canada,2009,242.78
+Canada,2010,262.29
+Canada,2011,255.33
+Canada,2012,263.78
+Canada,2013,238.62
+Canada,2014,272.31
+Canada,2015,288.9
+Canada,2016,238.89
+Canada,2017,242.51
+Canada,2018,288.95
+Canada,2019,260.38
+Canada,2020,294.26
+Canada,2021,259.3
+Canada,2022,299.22
+Canada,2023,274.72
+Australia,1960,237.97
+Australia,1961,228.05
+Australia,1962,239.58
+Australia,1963,259.27
+Australia,1964,220.58
+Australia,1965,266.32
+Australia,1966,244.47
+Australia,1967,279.87
+Australia,1968,210.7
+Australia,1969,244.53
+Australia,1970,228.2
+Australia,1971,247.08
+Australia,1972,270.23
+Australia,1973,263.37
+Australia,1974,263.56
+Australia,1975,267.12
+Australia,1976,276.04
+Australia,1977,253.48
+Australia,1978,289.46
+Australia,1979,290.25
+Australia,1980,286.37
+Australia,1981,291.47
+Australia,1982,287.94
+Australia,1983,324.39
+Australia,1984,283.62
+Australia,1985,280.89
+Australia,1986,273.64
+Australia,1987,269.73
+Australia,1988,267.16
+Australia,1989,275.95
+Australia,1990,293.99
+Australia,1991,303.76
+Australia,1992,299.77
+Australia,1993,285.11
+Australia,1994,320.1
+Australia,1995,318.55
+Australia,1996,302.25
+Australia,1997,294.05
+Australia,1998,319.76
+Australia,1999,314.22
+Australia,2000,283.17
+Australia,2001,312.45
+Australia,2002,320.72
+Australia,2003,299.16
+Australia,2004,322.62
+Australia,2005,291.4
+Australia,2006,348.9
+Australia,2007,348.81
+Australia,2008,320.47
+Australia,2009,334.46
+Australia,2010,280.67
+Australia,2011,307.41
+Australia,2012,326.34
+Australia,2013,312.44
+Australia,2014,349.85
+Australia,2015,377.18
+Australia,2016,315.37
+Australia,2017,323.83
+Australia,2018,346.96
+Australia,2019,376.15
+Australia,2020,321.15
+Australia,2021,352.25
+Australia,2022,385.37
+Australia,2023,317.58
+Japan,1960,58.01
+Japan,1961,87.12
+Japan,1962,78.15
+Japan,1963,40.26
+Japan,1964,88.51
+Japan,1965,69.09
+Japan,1966,108.58
+Japan,1967,72.98
+Japan,1968,75.24
+Japan,1969,101.24
+Japan,1970,108.12
+Japan,1971,104.27
+Japan,1972,64.03
+Japan,1973,110.95
+Japan,1974,81.95
+Japan,1975,109.78
+Japan,1976,79.05
+Japan,1977,118.89
+Japan,1978,96.27
+Japan,1979,89.2
+Japan,1980,131.57
+Japan,1981,124.57
+Japan,1982,109.9
+Japan,1983,153.65
+Japan,1984,118.25
+Japan,1985,130.15
+Japan,1986,137.33
+Japan,1987,122.0
+Japan,1988,146.26
+Japan,1989,128.61
+Japan,1990,133.49
+Japan,1991,171.42
+Japan,1992,125.8
+Japan,1993,100.8
+Japan,1994,183.72
+Japan,1995,204.93
+Japan,1996,148.28
+Japan,1997,120.09
+Japan,1998,155.06
+Japan,1999,157.99
+Japan,2000,162.36
+Japan,2001,146.34
+Japan,2002,182.64
+Japan,2003,183.98
+Japan,2004,146.05
+Japan,2005,192.36
+Japan,2006,221.87
+Japan,2007,186.7
+Japan,2008,178.96
+Japan,2009,185.31
+Japan,2010,202.9
+Japan,2011,158.42
+Japan,2012,198.77
+Japan,2013,190.11
+Japan,2014,237.32
+Japan,2015,199.33
+Japan,2016,238.61
+Japan,2017,185.62
+Japan,2018,221.89
+Japan,2019,218.97
+Japan,2020,197.65
+Japan,2021,221.02
+Japan,2022,244.16
+Japan,2023,215.88
+South Africa,1960,463.6
+South Africa,1961,477.18
+South Africa,1962,484.77
+South Africa,1963,454.67
+South Africa,1964,458.85
+South Africa,1965,503.19
+South Africa,1966,485.47
+South Africa,1967,447.01
+South Africa,1968,516.38
+South Africa,1969,508.51
+South Africa,1970,491.17
+South Africa,1971,481.49
+South Africa,1972,526.92
+South Africa,1973,519.57
+South Africa,1974,562.61
+South Africa,1975,525.75
+South Africa,1976,527.48
+South Africa,1977,518.76
+South Africa,1978,540.82
+South Africa,1979,539.36
+South Africa,1980,554.28
+South Africa,1981,521.2
+South Africa,1982,525.29
+South Africa,1983,526.8
+South Africa,1984,554.58
+South Africa,1985,571.11
+South Africa,1986,534.34
+South Africa,1987,537.41
+South Africa,1988,554.56
+South Africa,1989,545.75
+South Africa,1990,572.08
+South Africa,1991,510.39
+South Africa,1992,541.27
+South Africa,1993,544.53
+South Africa,1994,516.15
+South Africa,1995,545.67
+South Africa,1996,549.02
+South Africa,1997,565.68
+South Africa,1998,594.34
+South Africa,1999,569.56
+South Africa,2000,556.22
+South Africa,2001,578.08
+South Africa,2002,602.58
+South Africa,2003,564.46
+South Africa,2004,568.15
+South Africa,2005,599.91
+South Africa,2006,586.69
+South Africa,2007,606.45
+South Africa,2008,595.61
+South Africa,2009,612.29
+South Africa,2010,579.94
+South Africa,2011,602.78
+South Africa,2012,601.19
+South Africa,2013,583.46
+South Africa,2014,578.89
+South Africa,2015,626.25
+South Africa,2016,607.9
+South Africa,2017,596.85
+South Africa,2018,617.76
+South Africa,2019,644.62
+South Africa,2020,578.82
+South Africa,2021,596.89
+South Africa,2022,610.74
+South Africa,2023,660.8
+Russia,1960,176.03
+Russia,1961,179.27
+Russia,1962,213.44
+Russia,1963,208.47
+Russia,1964,221.11
+Russia,1965,209.21
+Russia,1966,221.35
+Russia,1967,221.78
+Russia,1968,236.99
+Russia,1969,240.4
+Russia,1970,194.69
+Russia,1971,184.97
+Russia,1972,252.78
+Russia,1973,259.32
+Russia,1974,217.98
+Russia,1975,204.02
+Russia,1976,246.03
+Russia,1977,265.49
+Russia,1978,285.65
+Russia,1979,262.85
+Russia,1980,247.92
+Russia,1981,240.31
+Russia,1982,261.23
+Russia,1983,257.84
+Russia,1984,246.35
+Russia,1985,310.46
+Russia,1986,308.01
+Russia,1987,297.85
+Russia,1988,259.54
+Russia,1989,297.88
+Russia,1990,296.4
+Russia,1991,295.29
+Russia,1992,314.26
+Russia,1993,304.8
+Russia,1994,309.71
+Russia,1995,310.48
+Russia,1996,307.38
+Russia,1997,267.72
+Russia,1998,307.89
+Russia,1999,297.92
+Russia,2000,286.27
+Russia,2001,348.33
+Russia,2002,352.1
+Russia,2003,347.53
+Russia,2004,328.28
+Russia,2005,353.01
+Russia,2006,329.07
+Russia,2007,335.71
+Russia,2008,312.61
+Russia,2009,345.24
+Russia,2010,341.34
+Russia,2011,316.9
+Russia,2012,344.76
+Russia,2013,347.01
+Russia,2014,387.38
+Russia,2015,372.14
+Russia,2016,357.31
+Russia,2017,364.89
+Russia,2018,363.62
+Russia,2019,361.5
+Russia,2020,346.74
+Russia,2021,368.19
+Russia,2022,359.12
+Russia,2023,351.86
