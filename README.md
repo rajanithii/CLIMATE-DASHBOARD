@@ -252,6 +252,6 @@ pytest
 
 <br>
 
-Built by **[Rajanithi N](https://github.com/rajanithii)**
+Built by **[Rajanithi N](https://github.com/rajanithii) . (https://www.linkedin.com/in/rajanithi-n/) . (rajanithiff@gmail.com)**
 
 </div>
